@@ -1,8 +1,8 @@
 # get-lyrics
 
-##About
+## About
 I do not own the lyrics and images, this work is for education porpuses. 
 
-##Installation
+## Installation
 
-##Future Updates
+## Future Updates
